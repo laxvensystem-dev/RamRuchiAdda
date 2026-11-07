@@ -1,0 +1,8 @@
+{
+  "name": "ramruchiadda",
+  "version": "1.0.0",
+  "description": "RamRuchiAdda online food ordering starter website",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "dependencies": { "express": "^4.21.2" }
+}
